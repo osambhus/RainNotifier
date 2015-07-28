@@ -1,0 +1,16 @@
+{
+  "name": "omkar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omkar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemailer": "^1.4.0",
+    "react-native-communications": "0.0.4",
+    "yql": "^1.0.2"
+  }
+}
